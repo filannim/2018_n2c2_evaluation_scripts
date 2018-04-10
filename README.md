@@ -72,7 +72,7 @@ A few notes to explain this output:
 - The "288" represents the number of files the script was run on. This means that 288 files have the same names in both the input folders.
 - The official ranking measure is Overall (micro) F(b=1) (0.7490 in the example above).
 
-### Categories
+### Criterion
 
 - Abdominal
 - Advanced-cad
