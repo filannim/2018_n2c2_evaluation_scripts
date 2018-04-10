@@ -1,6 +1,6 @@
 # 2018 N2C2 Shared Tasks Evaluation Scripts
 
-This script is distributed as a part of the 2018 N2C2 tasks. 
+This script is distributed as part of the 2018 N2C2 tasks. 
 
 If you would like to contribute to this project, pull requests are welcome.
 Please see: [here](https://help.github.com/articles/fork-a-repo) for instructions
