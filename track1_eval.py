@@ -1,6 +1,7 @@
 #!/usr/local/bin/python
 
 """N2C2 Track 1 evaluation script."""
+from __future__ import division
 
 import argparse
 import glob
